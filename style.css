@@ -2,6 +2,11 @@
     margin:0;
     padding:0;
 }
+h1{
+    font-size: 3.4rem;
+    margin-top: 2rem;
+   
+}
 body{
     background-color: #9D5C63;
     text-align: center;
